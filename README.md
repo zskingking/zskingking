@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
-
-* 掘金: (https://juejin.cn/user/2629687546479742)[https://juejin.cn/user/2629687546479742]
+* 掘金: https://juejin.cn/user/2629687546479742
 * 微信: zs_ss__
 * 邮箱: 495968956@qq.com
