@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ![22](https://github-readme-stats.vercel.app/api?username=mayandev)
 
-* 掘金: https://juejin.cn/user/2629687546479742
-* 微信: zs_ss__
+### 欢迎关注我的技术博客
+
+* 掘金: https://juejin.cn/user/2629687546479742 里面有一个还不错的《Android架构》专栏
+
+### 如何联系我？
 * 邮箱: 495968956@qq.com
+* 微信: zs_ss__
