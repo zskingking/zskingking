@@ -1,4 +1,4 @@
-### Hi 我是Bezier 一名Android开发工程师👋
+### Hi 我是Bezier. 一名Android开发工程师👋
 
 <!--
 **zskingking/zskingking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![22](https://github-readme-stats.vercel.app/api?username=mayandev)
 
 * 掘金: https://juejin.cn/user/2629687546479742
 * 微信: zs_ss__
