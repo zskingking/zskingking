@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 
 ### 如何联系我？
 * 邮箱: 495968956@qq.com
-* 微信: zs_ss__
